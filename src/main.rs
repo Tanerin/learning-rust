@@ -4,7 +4,9 @@
 //mod strings;
 //mod tuples;
 //mod arrays;
-mod vectors;
+//mod vectors;
+//mod loops;
+mod cli;
 fn main() {
     //print::run();
     //vars::run();
@@ -12,5 +14,6 @@ fn main() {
     //strings::run();
     //tuples::run();
     //arrays::run();
-    vectors::run();
+    //vectors::run();
+    cli::run();
 }
